@@ -70,7 +70,7 @@
     "mrhorse": "^3.0.1",
     "query-string": "^5.0.0",
     "require-all": "^2.1.0",
-    "tape": "latest",
+    "tape": "4.17.0",
     "vision": "^5.3.2"
   },
   "devDependencies": {
